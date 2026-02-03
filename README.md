@@ -8,7 +8,7 @@ A production-ready web application for intelligent parking slot management with 
 
 ## 🌐 Live Demo
 
-**Deployment URL:** [\[Will be added after deployment\]](https://kush-chauhan-symb-assignment.vercel.app/)
+**Deployment URL:** [\[Click Here\]](https://kush-chauhan-symb-assignment.vercel.app/)
 
 ## ✨ Features
 
