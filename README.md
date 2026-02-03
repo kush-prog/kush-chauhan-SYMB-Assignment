@@ -8,11 +8,7 @@ A production-ready web application for intelligent parking slot management with 
 
 ## 🌐 Live Demo
 
-**Deployment URL:** [Will be added after deployment]
-
-## 📹 Demo Video
-
-**Video Link:** [Will be added - 2-minute walkthrough]
+**Deployment URL:** [\[Will be added after deployment\]](https://kush-chauhan-symb-assignment.vercel.app/)
 
 ## ✨ Features
 
@@ -125,7 +121,7 @@ interface ParkingSlot {
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/kush-prog/kush-chauhan-SYMB-Assignment
    cd smart-parking-system
    ```
 
